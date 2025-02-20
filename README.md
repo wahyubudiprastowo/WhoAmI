@@ -1,7 +1,8 @@
 # 👋 Hi there, I'm Wahyu Budi Prastowo
 
-> **Cloud Security Specialist | Azure Cloud Engineer | Senior Linux System Administrator**  
+> **IT Infrastructure Specialist | Cloud Security Specialist | Azure Cloud Engineer | Senior System Administrator**  
 > "Architecting secure, scalable, and high-performance cloud solutions while driving automation and innovation." 🚀  
+> Passionate about optimizing infrastructure performance, automating workflows, and ensuring security in cloud environments.
 
 I specialize in **cloud security, infrastructure automation, and DevSecOps**, focusing on **Microsoft Azure, IT security, and high-availability systems**. With over **10 years of experience**, I have successfully led projects in **cloud migration, security compliance, threat detection, and network optimization**.
 
@@ -9,10 +10,10 @@ I specialize in **cloud security, infrastructure automation, and DevSecOps**, fo
 
 ## 🎯 **Professional Summary**
 - 🔭 **IT Infrastructure & Cloud Security Specialist** with expertise in **Azure Cloud, Linux Administration, and DevOps**.
-- ☁ **Multi-cloud expertise** in **Azure, AWS, GCP**, focusing on **security, governance, and automation**.
+- ☁ **Multi-cloud expertise** in **Azure, GCP**, focusing on **security, governance, and automation**.
 - 🚀 **Proven leadership** in **cloud transformations, high-availability system design, and security best practices**.
-- 🔐 Hands-on experience in **Zero-Trust Security Models, SIEM, XDR/MDR, and Identity & Access Management (IAM)**.
-- 🛠 **Automation-focused** with strong proficiency in **Terraform, Ansible, Bicep, PowerShell, and CI/CD pipelines**.
+- 🔐 Hands-on experience in **Zero-Trust Security Models, SIEM, XDR & EDR, and Identity & Access Management (IAM)**.
+- 🛠 **Automation-focused** with strong proficiency in **Ansible, PowerShell, and CI/CD pipelines**.
 - 📈 Passionate about **driving innovation, optimizing cloud infrastructure, and ensuring operational excellence**.
 
 ---
@@ -20,37 +21,54 @@ I specialize in **cloud security, infrastructure automation, and DevSecOps**, fo
 ## 🛠 **Technical Expertise & Specializations**
 
 ### ☁ **Cloud Security & Governance**
-- **Microsoft Azure:** Azure AD | Defender for Cloud | Azure Sentinel | Azure Firewall | WAF
-- **Security Frameworks & Compliance:** Zero-Trust | CIS Benchmarks | ISO 27001 | NIST | GDPR
-- **Network Security & Threat Protection:** SIEM (Azure Sentinel) | MDR/XDR | DDoS Protection | NSG | WAF
+- **Microsoft Azure:** Azure AD | Defender for Cloud | Azure Sentinel | Azure Firewall | Azure MDM Intune
+- **Microsoft 365:** Exchange | Share Point | Teams | Pureview DLP
+- **Security Frameworks & Compliance:** Zero-Trust | Nessus | ISO 27001 
+- **Network Security & Threat Protection:** SIEM (Azure Sentinel & Wazuh) | EDR & XDR | DDoS Protection | NSG | WAF
 - **Cloud Governance:** Azure Policy | Security Baselines | RBAC | IAM | MFA
 
 ### 🏗 **Infrastructure & Automation**
-- **Infrastructure as Code (IaC):** Terraform | ARM Templates | Bicep | CloudFormation
+- **Infrastructure as Code (IaC):** Ansible | Chef | Puppet
 - **Configuration Management:** Ansible | PowerShell DSC | Chef | Puppet
 - **DevOps & CI/CD:** Azure DevOps | GitHub Actions | Jenkins | Kubernetes | Docker
-- **Monitoring & Logging:** Azure Monitor | Log Analytics | Prometheus | Grafana
+- **Monitoring & Logging:** Solarwind |  Elastic ELK | Prometheus | Grafana
 
 ### 🔐 **Identity, Access, & Compliance**
 - **IAM & Security Policies:** Azure AD | Conditional Access | Privileged Identity Management (PIM)
 - **Encryption & Data Protection:** Azure Key Vault | TLS, AES, SSL | Compliance (ISO 27001, NIST, GDPR)
-- **Incident Response & Forensics:** Threat Intelligence | Security Audits | Risk Assessments
+- **Incident Response & Forensics:** OpenCTI | Threat Intelligence | Security Audits | Risk Assessments
 
 ### 🖥 **IT Infrastructure & Networking**
 - **Operating Systems:** Linux (Ubuntu, RHEL, Debian, CentOS, SUSE) | Windows Server | VMware ESXi
-- **Networking & Security:** MikroTik | IPTables | pfSense | VPN | Load Balancing (HAProxy, Squid)
-- **Backup & Disaster Recovery:** Azure Backup | Acronis | Veeam | SAN/NAS Storage | DR Planning
+- **Networking & Security:** Cisco ISE| Sangfor | MikroTik | IPTables | pfSense | VPN | Load Balancing (HAProxy, Squid)
+- **Backup & Disaster Recovery:** Azure Backup | Acronis | Veeam | SAN/NAS Storage 
 
 ---
 
 ## 🚀 **Key Projects & Achievements**
+
+### 🔹 **Infrastructure Optimization**
+- ✅ Designed and deployed **high-availability (HA) infrastructure** with **load balancing and failover mechanisms**.
+- ✅ Configured **Linux-based ISP & Web Hosting Systems** with **99.99% uptime**.
+- ✅ Built **redundant DNS & Proxy Servers** for optimized network performance.
+
+### 🔹 **Cloud & DevOps Implementations**
+- 🚀 Migrated on-premise systems to **cloud-based infrastructure** (Azure, VMware).
+- 🔧 Automated **server provisioning & configuration** using Ansible and Terraform.
+- 🛡 Implemented **CI/CD pipelines** for **secure and efficient software deployments**.
+
+### 🔹 **Security & Compliance**
+- 🔍 Secured **enterprise networks** by implementing **firewall rules, VPNs, and access control policies**.
+- 🔒 Ensured **OS patching, security hardening, and threat mitigation** for **Linux and Windows environments**.
+- 🛠 Developed **intrusion detection and monitoring** systems with **Wazuh, OpenCTI, Fail2Ban & Logwatch**.
+
 ### 🔹 **Enterprise Cloud Security & Compliance**
 - ✅ Designed and implemented **Zero-Trust Security Architecture** in **Azure** for a large-scale enterprise.
 - ✅ Developed **security monitoring dashboards** using **Azure Sentinel & Microsoft Defender for Cloud**.
 - ✅ Automated **compliance & risk assessments** with **Azure Policy & Security Baselines**.
 
 ### 🔹 **Cloud Infrastructure Automation & DevOps**
-- 🚀 Developed **Infrastructure as Code (IaC)** solutions using **Terraform, ARM Templates, and Bicep**.
+- 🚀 Developed **Infrastructure as Code (IaC)** solutions using **Terraform**.
 - 🔧 Automated **server provisioning & security patching** with **Ansible & PowerShell DSC**.
 - ⚙ Reduced **deployment time by 60%** through **CI/CD pipeline automation**.
 
@@ -62,10 +80,10 @@ I specialize in **cloud security, infrastructure automation, and DevSecOps**, fo
 ---
 
 ## 🎯 **Core Competencies**
-- ☁ **Azure Cloud Security & Compliance** (Zero-Trust, ISO 27001, NIST, SOC 2)
+- ☁ **Azure Cloud Security & Compliance** (Zero-Trust, ISO 27001, NIST)
 - 🔐 **IAM & Zero-Trust Security Architecture** (Azure AD, PIM, Conditional Access)
-- ⚙ **Infrastructure Automation & DevOps** (Terraform, Bicep, Azure DevOps)
-- 🔍 **SIEM, Threat Intelligence & XDR/MDR** (Azure Sentinel, Defender for Cloud)
+- ⚙ **Infrastructure Automation & DevOps** (Terraform, Azure DevOps)
+- 🔍 **SIEM, Threat Intelligence & XDR/MDR** (Azure Sentinel, Wazuh,  Defender for Cloud)
 - 📡 **Secure Cloud Networking & Firewalls** (WAF, VPN, Load Balancing)
 - 🛠 **Enterprise IT Administration & Disaster Recovery** (Backup, Failover, High-Availability)
 
@@ -77,7 +95,8 @@ I specialize in **cloud security, infrastructure automation, and DevSecOps**, fo
 - **Cloud Architecture: Design, Implement, and Manage** – Google
 - **SKF100 OWASP Top 10 Security Threats** – Linux Foundation
 - **LFS157 Serverless on Kubernetes** – Linux Foundation
-- **Acronis Certified: Cloud Security & Backup Management**
+- **Acronis Certified: Cloud Security & Backup Management** * – Acronis
+
 
 ---
 
