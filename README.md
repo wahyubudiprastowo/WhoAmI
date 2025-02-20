@@ -1,68 +1,69 @@
 # 👋 Hi there, I'm Wahyu Budi Prastowo
 
-> **Cloud Security Specialist | Azure Cloud Engineer | Senior System Administrator**  
-> "Building secure, scalable, and high-performance cloud infrastructure solutions." 🚀  
-> Passionate about **Azure security, cloud infrastructure, automation, and DevOps best practices**.
+> **Cloud Security Specialist | Azure Cloud Engineer | Senior Linux System Administrator**  
+> "Architecting secure, scalable, and high-performance cloud solutions while driving automation and innovation." 🚀  
+
+I specialize in **cloud security, infrastructure automation, and DevSecOps**, focusing on **Microsoft Azure, IT security, and high-availability systems**. With over **10 years of experience**, I have successfully led projects in **cloud migration, security compliance, threat detection, and network optimization**.
 
 ---
 
-## 💼 **Professional Overview**
-- 🔭 **IT Infrastructure Specialist** with **10+ years of experience** in **Azure Cloud Security, Linux Administration, and DevOps**.
-- ☁ Expertise in **Microsoft Azure, IT Security, High-Availability Systems, and Cloud Governance**.
-- 🔐 Specialized in **Zero-Trust Security Models, SIEM, XDR/MDR, and Threat Intelligence**.
-- 🚀 Skilled in **Infrastructure as Code (IaC), DevOps automation, and cloud-native solutions**.
-- 🛠 Hands-on experience with **multi-cloud architectures, on-prem to cloud migrations, and security compliance**.
+## 🎯 **Professional Summary**
+- 🔭 **IT Infrastructure & Cloud Security Specialist** with expertise in **Azure Cloud, Linux Administration, and DevOps**.
+- ☁ **Multi-cloud expertise** in **Azure, AWS, GCP**, focusing on **security, governance, and automation**.
+- 🚀 **Proven leadership** in **cloud transformations, high-availability system design, and security best practices**.
+- 🔐 Hands-on experience in **Zero-Trust Security Models, SIEM, XDR/MDR, and Identity & Access Management (IAM)**.
+- 🛠 **Automation-focused** with strong proficiency in **Terraform, Ansible, Bicep, PowerShell, and CI/CD pipelines**.
+- 📈 Passionate about **driving innovation, optimizing cloud infrastructure, and ensuring operational excellence**.
 
 ---
 
-## 🛠 **Technical Expertise**
+## 🛠 **Technical Expertise & Specializations**
 
-### ☁ **Cloud Platforms & Security**
+### ☁ **Cloud Security & Governance**
 - **Microsoft Azure:** Azure AD | Defender for Cloud | Azure Sentinel | Azure Firewall | WAF
-- **Cloud Governance & Compliance:** Azure Policy | Security Baselines | RBAC | IAM | MFA
-- **Threat Protection:** XDR/MDR | SIEM (Azure Sentinel) | DDoS Protection | Network Security Groups (NSG)
-- **Backup & Disaster Recovery:** Azure Backup | Acronis | Veeam | DR Planning
+- **Security Frameworks & Compliance:** Zero-Trust | CIS Benchmarks | ISO 27001 | NIST | GDPR
+- **Network Security & Threat Protection:** SIEM (Azure Sentinel) | MDR/XDR | DDoS Protection | NSG | WAF
+- **Cloud Governance:** Azure Policy | Security Baselines | RBAC | IAM | MFA
 
-### 🏗 **Infrastructure & DevOps**
-- **Infrastructure as Code (IaC):** Terraform | ARM Templates | Bicep
-- **Automation & Configuration Management:** Ansible | PowerShell DSC | Chef | Puppet
-- **CI/CD Pipelines:** Azure DevOps | GitHub Actions | Jenkins | Kubernetes | Docker
+### 🏗 **Infrastructure & Automation**
+- **Infrastructure as Code (IaC):** Terraform | ARM Templates | Bicep | CloudFormation
+- **Configuration Management:** Ansible | PowerShell DSC | Chef | Puppet
+- **DevOps & CI/CD:** Azure DevOps | GitHub Actions | Jenkins | Kubernetes | Docker
 - **Monitoring & Logging:** Azure Monitor | Log Analytics | Prometheus | Grafana
 
-### 🔐 **Security & Identity Management**
-- **IAM & Access Control:** Azure AD | Conditional Access | Privileged Identity Management (PIM)
-- **Cloud Security Monitoring:** SIEM (Azure Sentinel) | Defender for Cloud | Microsoft SIEM
-- **Encryption & Data Security:** Azure Key Vault | TLS, AES, SSL | Compliance (ISO 27001, NIST, GDPR)
+### 🔐 **Identity, Access, & Compliance**
+- **IAM & Security Policies:** Azure AD | Conditional Access | Privileged Identity Management (PIM)
+- **Encryption & Data Protection:** Azure Key Vault | TLS, AES, SSL | Compliance (ISO 27001, NIST, GDPR)
+- **Incident Response & Forensics:** Threat Intelligence | Security Audits | Risk Assessments
 
 ### 🖥 **IT Infrastructure & Networking**
 - **Operating Systems:** Linux (Ubuntu, RHEL, Debian, CentOS, SUSE) | Windows Server | VMware ESXi
 - **Networking & Security:** MikroTik | IPTables | pfSense | VPN | Load Balancing (HAProxy, Squid)
-- **Storage & Backup:** RAID | SAN | NAS | Bacula | FreeNAS | DRBD | Acronis | Veeam
+- **Backup & Disaster Recovery:** Azure Backup | Acronis | Veeam | SAN/NAS Storage | DR Planning
 
 ---
 
 ## 🚀 **Key Projects & Achievements**
+### 🔹 **Enterprise Cloud Security & Compliance**
+- ✅ Designed and implemented **Zero-Trust Security Architecture** in **Azure** for a large-scale enterprise.
+- ✅ Developed **security monitoring dashboards** using **Azure Sentinel & Microsoft Defender for Cloud**.
+- ✅ Automated **compliance & risk assessments** with **Azure Policy & Security Baselines**.
 
-### 🔹 **Enterprise Cloud Security & Governance**
-- ✅ Designed **Zero-Trust Security Models** with **Azure AD Conditional Access & MFA**.
-- ✅ Implemented **Azure Security Center & Defender for Cloud** for **real-time threat intelligence**.
-- ✅ Automated **security compliance monitoring** with **Azure Policy & Governance**.
+### 🔹 **Cloud Infrastructure Automation & DevOps**
+- 🚀 Developed **Infrastructure as Code (IaC)** solutions using **Terraform, ARM Templates, and Bicep**.
+- 🔧 Automated **server provisioning & security patching** with **Ansible & PowerShell DSC**.
+- ⚙ Reduced **deployment time by 60%** through **CI/CD pipeline automation**.
 
-### 🔹 **Infrastructure as Code & Cloud Automation**
-- 🚀 Built **Infrastructure as Code (IaC)** deployments using **Terraform & ARM Templates**.
-- 🔧 Automated **server provisioning & configuration** with **Ansible & PowerShell DSC**.
-- ⚙ Optimized **cloud cost management** and **high-availability architectures**.
-
-### 🔹 **DevOps & CI/CD Pipelines**
-- 🔄 Integrated **Azure DevOps Pipelines** for **automated deployments & security enforcement**.
-- 🏗 Implemented **Kubernetes & Docker-based container orchestration** for cloud-native workloads.
-- 📡 Developed **monitoring dashboards** with **Azure Monitor, Grafana, and Prometheus**.
+### 🔹 **Cloud Migration & High-Availability Architecture**
+- 🔐 Led **multi-cloud migrations** from on-premises to **Azure and GCP**, ensuring **99.99% uptime**.
+- 🏢 Designed **high-availability Kubernetes clusters** with **Azure Kubernetes Service (AKS)**.
+- 🔍 Optimized **cloud cost management strategies**, reducing cloud expenses by **30%**.
 
 ---
 
 ## 🎯 **Core Competencies**
-- ☁ **Azure Cloud Security & Compliance** (CIS, NIST, ISO 27001, SOC 2)
-- 🔐 **Zero-Trust IAM & Security Architecture** (Azure AD, PIM, Conditional Access)
+- ☁ **Azure Cloud Security & Compliance** (Zero-Trust, ISO 27001, NIST, SOC 2)
+- 🔐 **IAM & Zero-Trust Security Architecture** (Azure AD, PIM, Conditional Access)
 - ⚙ **Infrastructure Automation & DevOps** (Terraform, Bicep, Azure DevOps)
 - 🔍 **SIEM, Threat Intelligence & XDR/MDR** (Azure Sentinel, Defender for Cloud)
 - 📡 **Secure Cloud Networking & Firewalls** (WAF, VPN, Load Balancing)
@@ -70,28 +71,21 @@
 
 ---
 
-## 📜 **Certifications**
-- **Microsoft SIEM & Cloud Security** – Acronis
+## 🎓 **Certifications & Training**
+- **Microsoft Certified: Azure Security Engineer Associate**
 - **Google Cybersecurity Certificate** – Google
 - **Cloud Architecture: Design, Implement, and Manage** – Google
 - **SKF100 OWASP Top 10 Security Threats** – Linux Foundation
 - **LFS157 Serverless on Kubernetes** – Linux Foundation
-- **LFS146 Introduction to Cilium** – Linux Foundation
+- **Acronis Certified: Cloud Security & Backup Management**
 
 ---
 
-## 📫 **Connect With Me**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/wahyubudiprastowo)**
-- 📧 **Business Inquiries:** wahyubudiprastowo@gmail.com
-- 🌐 **Personal Profile:** [wahyubudiprastowo](https://github.com/wahyubudiprastowo/profile)
-
----
-
-## 📊 **GitHub Statistics**
-### 📌 **Activity & Contributions**
+## 📊 **GitHub & Community Engagement**
+### 📌 **GitHub Statistics**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wahyubudiprastowo&show_icons=true&count_private=true&include_all_commits&theme=radical)
 
-### 🏆 **Trophies**
+### 🏆 **Trophies & Achievements**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wahyubudiprastowo&theme=radical&row=1)
 
 ### 📈 **Contribution Streak**
@@ -102,4 +96,16 @@
 
 ---
 
-🚀 **Open to new opportunities in Cloud Security, Azure Engineering, and DevSecOps!**
+## 📫 **Let’s Connect!**
+I am always open to **collaborations, freelance work, consulting opportunities, and speaking engagements** in:
+- **Cloud Security & Governance**
+- **Azure DevOps & Infrastructure Automation**
+- **Threat Intelligence & SIEM Deployment**
+- **Cybersecurity Incident Response & Compliance**
+- **Cloud Migration & Optimization**
+
+📧 **Business Inquiries:** wahyubudiprastowo@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/wahyubudiprastowo](https://www.linkedin.com/in/wahyubudiprastowo)  
+🌐 **Website:** [wahyubudiprastowo.com](http://wahyubudiprastowo.com)  
+
+🔹 **Let’s build the future of secure, scalable, and high-performing cloud infrastructure together! 🚀**
