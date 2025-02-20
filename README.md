@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Wahyu Budi Prastowo
 
-> **Cloud Security Specialist | Azure Cloud Engineer | Senior Linux System Administrator**  
+> **Cloud Security Specialist | Azure Cloud Engineer | Senior System Administrator**  
 > "Building secure, scalable, and high-performance cloud infrastructure solutions." 🚀  
 > Passionate about **Azure security, cloud infrastructure, automation, and DevOps best practices**.
 
