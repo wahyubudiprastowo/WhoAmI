@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Wahyu Budi Prastowo
 
-> **Cloud Engineer & Senior System Administrator** | **Linux System Administration | Cloud Infrastructure | Infra Security | DevOps Practice**  
+> **Cloud Engineer & Senior System Administrator** | **Infra Security | DevOps Practice**  
 > "Building secure, scalable, and high-performing infrastructure solutions for modern enterprises" 🚀  
 > Passionate about optimizing infrastructure performance, automating workflows, and ensuring security in cloud environments.
 
